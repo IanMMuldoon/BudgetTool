@@ -3,4 +3,4 @@
 This project allows the user to log expenses. The app displays the expenses in a list. The user may filter the expenses by year. There is an expense chart which shows how many expenses were made in that month. I used ReactJS for this project.
 
 NewExpense Demo:
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://imgur.com/bEJI3py)
